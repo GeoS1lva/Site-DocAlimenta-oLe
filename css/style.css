@@ -26,7 +26,7 @@ body{
     }
 
     .foto{
-        background-image: url("/img/img1.jpg");
+        background-image: url("../img/foto.jpg");
         background-size: cover;
         background-position: center;
         width: 100px;
