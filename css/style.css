@@ -16,10 +16,6 @@ body{
 }
 
 @media (max-width: 850px){
-    .navbar-container{
-
-    }
-
     .barra-navegacao{
         background-color: #010196;
         width: 100%;
@@ -30,7 +26,7 @@ body{
     }
 
     .foto{
-        background-image: url("/img/img1.jpg");
+        background-image: url("img/img1.jpg");
         background-size: cover;
         background-position: center;
         width: 100px;
